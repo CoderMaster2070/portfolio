@@ -426,10 +426,10 @@ header.desktop-header-1 .vertical-menu li {
   transition: all 0.2s ease-in-out;
 }
 header.desktop-header-1 .vertical-menu li a:hover {
-  color: #FFD15C;
+  color: #71f587;
 }
 header.desktop-header-1 .vertical-menu li i {
-  color: #FFD15C;
+  color: #4fa037;
   margin-right: 20px;
 }
 header.desktop-header-1 .vertical-menu li .switch {
@@ -463,7 +463,7 @@ header.desktop-header-1 .vertical-menu li a.nav-link {
   padding: 0;
 }
 header.desktop-header-1 .vertical-menu li .nav-link.active {
-  color: #FFD15C;
+  color: #ffffff;
 }
 header.desktop-header-1 .submenu {
   display: none;

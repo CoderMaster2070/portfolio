@@ -1,5 +1,5 @@
 
 RewriteEngine on
-RewriteCond %{HTTP_HOST} ^cv\.codermaster2070\.com$
-RewriteRule ^/?$ "https\:\/\/cv\.codermaster2070\.com\/" [R=301,L]
+RewriteCond %{HTTP_HOST} ^cv\.codermaster\.co$
+RewriteRule ^/?$ "https\:\/\/cv\.codermaster\.co\/" [R=301,L]
 
